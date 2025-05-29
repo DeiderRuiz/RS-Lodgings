@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# RS-Lodgings
+Aplicación web para reservas de hotel desarrollada con Laravel, Inertia.js y Vue.js. Incluye gestión de reservas, pagos con PayPal, roles de usuario, envío de correos, y panel administrativo.
+>>>>>>> 5a0a71d47936ef0022c10293e9851dba706e5b6b
